@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kotlin ECG Widgets Viewer</string>
+    <string name="exit_app">"Leave the application"</string>
+    <string name="delete_widget">"Delete widget"</string>
+    <string name="are_you_sure">"Are you sure?"</string>
+    <string name="ok">Yes</string>
+    <string name="cancel">No</string>
+    <string name="flowing">Flowing</string>
+    <string name="overlay">"Overlay"</string>
+</resources>

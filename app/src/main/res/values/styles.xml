@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomSwitchStyle" parent="Widget.AppCompat.CompoundButton.Switch">
+        <!-- Change thumb color -->
+        <item name="android:thumbTint">@color/color_primary</item>
+    </style>
+
+</resources>
